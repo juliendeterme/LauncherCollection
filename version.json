@@ -1,10 +1,10 @@
 
 {
   "version": "0.0.1",
-  "download_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.1/",
-  "zip_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.1/Build_v0.0.1.zip",
-  "zip_hash": "644015651d5d7e23ad19e581014aec1c138920c331d8bdd3fe2452f31ab6ea67",
-  "version_note": "Beta Ouvert !!",
+  "download_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.11/",
+  "zip_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.11/Build_v0.0.11.zip",
+  "zip_hash": "d78194f2a39aea2dd0f50514e5222e495bf8bf62b955f033fa7fba22c75f1ba1",
+  "version_note": "Ajout des armes",
   "files": [
     {
       "path": "GunCollection.exe",
