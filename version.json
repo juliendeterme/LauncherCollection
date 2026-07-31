@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/v1.0.0/",
+  "files": [
+    {
+      "path": "MonJeu.exe",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 15420800
+    },
+    {
+      "path": "MonJeu/Content/Paks/pakchunk0-WindowsNoEditor.pak",
+      "hash": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0",
+      "size": 524288000
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/PhysX3Common_x64.dll",
+      "hash": "9f8e7d6c5b4a3210fe2109876543210fedcba9876543210fedcba9876543210f",
+      "size": 2048000
+    }
+  ]
+}
