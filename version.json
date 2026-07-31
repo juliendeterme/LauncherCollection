@@ -1,21 +1,19 @@
+
 {
   "version": "1.0.0",
   "download_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/v1.0.0/",
+  "zip_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/v1.0.0/Build_v1.0.0.zip",
+  "zip_hash": "644015651d5d7e23ad19e581014aec1c138920c331d8bdd3fe2452f31ab6ea67",
   "files": [
     {
-      "path": "MonJeu.exe",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "GunCollection.exe",
+      "hash": "3EAF23D1B29FFCE689AB9CC6295B625D114C1678CFB7A26AB4EA737DD8B7D409",
       "size": 15420800
     },
     {
-      "path": "MonJeu/Content/Paks/pakchunk0-WindowsNoEditor.pak",
-      "hash": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0",
+      "path": "GunCollection/Content/Paks/GunCollection-WindowsNoEditor.pak",
+      "hash": "5B80A0E33026237B106B4986BD907B8BCEDB8BD1F05FD4BC8921F4C21185D5A2",
       "size": 524288000
-    },
-    {
-      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/PhysX3Common_x64.dll",
-      "hash": "9f8e7d6c5b4a3210fe2109876543210fedcba9876543210fedcba9876543210f",
-      "size": 2048000
     }
   ]
 }
