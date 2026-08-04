@@ -1,10 +1,10 @@
 
 {
-  "version": "0.0.11",
-  "download_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.11/",
-  "zip_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.11/Build_v0.0.11.zip",
-  "zip_hash": "d78194f2a39aea2dd0f50514e5222e495bf8bf62b955f033fa7fba22c75f1ba1",
-  "version_note": "Ajout des armes",
+  "version": "0.0.12",
+  "download_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.12/",
+  "zip_url": "https://github.com/juliendeterme/LauncherCollection/releases/download/0.0.12/Build_v0.0.12.zip",
+  "zip_hash": "8f71d228344b3f2bf2ced29514f4c49f5ca979651f4c3031fdda6c35801f1c8e",
+  "version_note": "Best Map + News Guns",
   "files": [
     {
       "path": "GunCollection.exe",
